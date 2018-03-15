@@ -1,0 +1,9 @@
+﻿  Mesh.cpp
+  Material.cpp
+  Light.cpp
+  Instance.cpp
+  GeometryBuilder.cpp
+  Context.cpp
+  Camera.cpp
+  Generating Code...
+  sponza.vcxproj -> C:\Users\Aleks\Desktop\3D Sponza scene\build\lib\x64\Debug\v141\sponza.lib
